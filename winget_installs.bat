@@ -1,3 +1,4 @@
+winget install jdx.mise
 winget install Schniz.fnm
 winget install GitHub.cli
 winget install fd
@@ -33,7 +34,6 @@ winget install Voidstar.FilePilot
 winget install BrickLink.Studio
 winget install BrickLink.PartDesigner
 winget install OBSProject.OBSStudio
-winget install f3d-app.f3d
 winget install SumatraPDF.SumatraPDF
 winget install IrfanSkiljan.IrfanView
 winget install darktable.darktable

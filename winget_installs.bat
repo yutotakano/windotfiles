@@ -1,5 +1,4 @@
 winget install jdx.mise
-winget install Schniz.fnm
 winget install GitHub.cli
 winget install fd
 winget install zyedidia.micro
@@ -48,6 +47,5 @@ winget install Microsoft.WindowsTerminal
 winget install Spotify.Spotify
 
 rem May need to setup clink's clink_start.cmd to load fnm env
-fnm install v24.13.1
-fnm use v24.13.1
-npm install -g yarn
+mise install -g node@24
+mise use -g node@20

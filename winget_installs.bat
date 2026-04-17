@@ -1,3 +1,8 @@
+rem RGB setup
+winget install -e --id Microsoft.VCRedist.2015+.x64
+winget install -e --id OpenRGB.OpenRGB
+
+rem Dev env setup
 winget install jdx.mise
 winget install GitHub.cli
 winget install fd
@@ -16,8 +21,10 @@ winget install mkvtoolnix
 winget install -e --id ImageMagick.ImageMagick
 winget install XAMPPRocky.tokei
 
+rem Extras
 winget install -e --id WiresharkFoundation.Wireshark
 
+rem More extras
 winget install ajeetdsouza.zoxide
 winget install Microsoft.OpenJDK.21
 winget install Microsoft.OpenJDK.17
@@ -26,6 +33,7 @@ winget install 7zip.7zip
 winget install -h -e --id "WinFsp.WinFsp"
 winget install -h -e --id "SSHFS-Win.SSHFS-Win"
 
+rem Essentials
 winget install PrismLauncher.PrismLauncher
 winget install Anki.Anki
 winget install Doist.Todoist

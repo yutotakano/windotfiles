@@ -1,6 +1,5 @@
 rem RGB setup
 winget install -e --id Microsoft.VCRedist.2015+.x64
-winget install -e --id OpenRGB.OpenRGB
 
 rem Dev env setup
 winget install jdx.mise

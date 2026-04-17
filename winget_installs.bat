@@ -2,6 +2,7 @@ rem RGB setup
 winget install -e --id Microsoft.VCRedist.2015+.x64
 
 rem Dev env setup
+winget install Git.Git
 winget install jdx.mise
 winget install GitHub.cli
 winget install fd

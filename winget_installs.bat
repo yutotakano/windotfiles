@@ -1,5 +1,6 @@
-rem RGB setup
+rem Standard runtimes
 winget install -e --id Microsoft.VCRedist.2015+.x64
+winget install -e --id Microsoft.DotNet.DesktopRuntime.8
 
 rem Dev env setup
 winget install Git.Git

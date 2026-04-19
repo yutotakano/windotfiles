@@ -40,6 +40,12 @@ winget install -e --id "WinFsp.WinFsp"
 winget install -e --id "SSHFS-Win.SSHFS-Win"
 winget install -e --id Kubernetes.kubectl
 
+rem If using OIDC for kubectl
+winget install -e --id Kubernetes.krew
+sudo krew install krew
+sudo krew install oidc-login
+rem Add %userprofile%/.krew/bin to PATH now
+
 rem Only when required (apps)
 winget install -e --id Spotify.Spotify
 winget install -e --id Discord.Discord

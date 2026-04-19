@@ -10,6 +10,7 @@ winget install -e --id uutils.coreutils
 winget install -e --id ajeetdsouza.zoxide
 winget install -e --id chrisant996.Clink
 winget install -e --id Docker.DockerDesktop
+winget install -e --id Microsoft.VisualStudioCode
 
 rem Apps
 winget install -e --id Martchus.syncthingtray

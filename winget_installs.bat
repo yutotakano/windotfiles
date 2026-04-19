@@ -38,6 +38,7 @@ winget install -e --id XAMPPRocky.tokei
 winget install -e --id Typst.Typst
 winget install -e --id "WinFsp.WinFsp"
 winget install -e --id "SSHFS-Win.SSHFS-Win"
+winget install -e --id Kubernetes.kubectl
 
 rem Only when required (apps)
 winget install -e --id Spotify.Spotify

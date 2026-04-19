@@ -3,9 +3,10 @@ winget install -e --id Microsoft.VCRedist.2015+.x64
 winget install -e --id jdx.mise
 winget install -e --id Git.Git
 winget install -e --id GitHub.cli
-winget install -e --id fd
+winget install -e --id sharkdp.fd
+winget install -e --id junegunn.fzf
 winget install -e --id zyedidia.micro
-winget install -e --id Starship
+winget install -e --id Starship.Starship
 winget install -e --id uutils.coreutils
 winget install -e --id ajeetdsouza.zoxide
 winget install -e --id chrisant996.Clink

@@ -9,6 +9,7 @@ winget install -e --id Starship
 winget install -e --id uutils.coreutils
 winget install -e --id ajeetdsouza.zoxide
 winget install -e --id chrisant996.Clink
+winget install -e --id Docker.DockerDesktop
 
 rem Apps
 winget install -e --id Martchus.syncthingtray
@@ -39,6 +40,7 @@ winget install -e --id "SSHFS-Win.SSHFS-Win"
 
 rem Only when required (apps)
 winget install -e --id Spotify.Spotify
+winget install -e --id Discord.Discord
 winget install -e --id PrismLauncher.PrismLauncher
 winget install -e --id Anki.Anki
 winget install -e --id Doist.Todoist

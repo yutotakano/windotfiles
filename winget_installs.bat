@@ -21,6 +21,8 @@ winget install mkvtoolnix
 winget install -e --id ImageMagick.ImageMagick
 winget install XAMPPRocky.tokei
 
+winget install -e --id Martchus.syncthingtray
+
 rem Extras
 winget install -e --id WiresharkFoundation.Wireshark
 

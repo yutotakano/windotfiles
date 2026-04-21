@@ -40,7 +40,6 @@ winget install -e --id Typst.Typst
 winget install -e --id "WinFsp.WinFsp"
 winget install -e --id "SSHFS-Win.SSHFS-Win"
 winget install -e --id Kubernetes.kubectl
-winget install -e --id OpenVPNTechnologies.OpenVPNConnect
 
 rem If using OIDC for kubectl
 winget install -e --id Kubernetes.krew

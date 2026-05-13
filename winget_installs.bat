@@ -12,6 +12,7 @@ winget install -e --id ajeetdsouza.zoxide
 winget install -e --id chrisant996.Clink
 winget install -e --id Docker.DockerDesktop
 winget install -e --id Microsoft.VisualStudioCode
+winget install -e --id valinet.ExplorerPatcher
 
 rem Apps
 winget install -e --id Martchus.syncthingtray

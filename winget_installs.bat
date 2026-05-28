@@ -32,6 +32,8 @@ winget install -e --id=GoLang.Go
 winget install -e --id Rustlang.Rustup
 winget install -e --id Microsoft.OpenJDK.21
 winget install -e --id Microsoft.OpenJDK.17
+rem .NET runtime needed by Handbrake
+winget install -e --id Microsoft.DotNet.DesktopRuntime.8
 
 rem Only when required (utils)
 winget install -e --id mkvtoolnix

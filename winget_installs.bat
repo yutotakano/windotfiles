@@ -69,3 +69,4 @@ winget install -e --id Microsoft.PowerToys
 winget install -e --id Highresolution.X-MouseButtonControl
 winget install -e --id Zoom.Zoom.EXE
 winget install -e --id JackieLiu.NotepadsApp
+winget install -e --id Canva.Affinity

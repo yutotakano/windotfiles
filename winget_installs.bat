@@ -7,7 +7,7 @@ winget install -e --id sharkdp.fd
 winget install -e --id junegunn.fzf
 winget install -e --id zyedidia.micro
 winget install -e --id Starship.Starship
-winget install -e --id uutils.coreutils
+winget install -e --id Microsoft.Coreutils
 winget install -e --id ajeetdsouza.zoxide
 winget install -e --id chrisant996.Clink
 winget install -e --id Docker.DockerDesktop

@@ -64,6 +64,7 @@ winget install -e --id darktable.darktable
 winget install -e --id High-Logic.MainType
 winget install -e --id Wacom.WacomTabletDriver
 winget install -e --id Resplendence.WhoCrashed
+winget install -e --id Valve.Steam
 winget install -e --id Microsoft.PowerToys
 winget install -e --id Highresolution.X-MouseButtonControl
 winget install -e --id Zoom.Zoom.EXE

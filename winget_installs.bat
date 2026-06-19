@@ -30,6 +30,7 @@ winget install -e --id GnuWin32.Make
 rem Rustup/Go may be handled already by mise?
 winget install -e --id=GoLang.Go
 winget install -e --id Rustlang.Rustup
+winget install -e --id Microsoft.OpenJDK.25
 winget install -e --id Microsoft.OpenJDK.21
 winget install -e --id Microsoft.OpenJDK.17
 rem .NET runtime needed by Handbrake

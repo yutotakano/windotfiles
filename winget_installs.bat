@@ -67,6 +67,7 @@ winget install -e --id Wacom.WacomTabletDriver
 winget install -e --id Resplendence.WhoCrashed
 winget install -e --id Valve.Steam
 winget install -e --id Microsoft.PowerToys
+winget install -e --id xanderfrangos.twinkletray
 winget install -e --id Highresolution.X-MouseButtonControl
 winget install -e --id Zoom.Zoom.EXE
 winget install -e --id JackieLiu.NotepadsApp

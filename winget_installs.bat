@@ -13,6 +13,7 @@ winget install -e --id chrisant996.Clink
 winget install -e --id Docker.DockerDesktop
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id valinet.ExplorerPatcher
+winget install -e --id Gyan.FFmpeg
 
 rem Apps
 winget install -e --id Martchus.syncthingtray
